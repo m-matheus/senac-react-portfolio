@@ -18,6 +18,7 @@ export const About = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
+              
               <p>
                 I'm a frontend developer with experience in building responsive
                 and optimized sites
